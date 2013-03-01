@@ -1,0 +1,5 @@
+name: GoldDigger
+
+main: com.github.Jikoo.GoldMiner.GoldMiner
+version: 1.0
+author: Jikoo
